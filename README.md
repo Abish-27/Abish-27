@@ -1,223 +1,134 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║         ABISH KULKARNI  ·  GitHub Profile README           ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│    A B I S H   K U L K A R N I                             │
-│                                                             │
-│    [ CS @ UofT ]  [ Toronto ]  [ Builder ]                 │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+# Abish Kulkarni
+
+**CS Specialist @ University of Toronto &nbsp;·&nbsp; Toronto 🍁**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abish-kulkarni-83b666231/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abishkulkarni@gmail.com)
+[![itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://abush27.itch.io)
 
 </div>
 
 ---
-
-<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=Abish-27&show_icons=true&theme=transparent&hide_border=true&title_color=6e56cf&icon_color=6e56cf&text_color=8b8b8b&bg_color=00000000" />
-
-### `whoami`
-
-Computer Science Specialist at the **University of Toronto** — the kind of student who opens a project thinking it'll be a weekend build and ends up rebuilding the whole stack.
-
-I make things that **actually run**:
-- 🎵 Audio processing pipelines
-- 🌐 Full-stack web apps with real databases
-- 🧠 Machine learning tools that make decisions
-- 🎮 Games you can actually play
 
 ```python
 abish = {
-    "location"  : "Toronto, ON 🍁",
-    "degree"    : "CS Specialist @ UofT",
-    "building"  : "Ghostnote — audio stem separation",
-    "passions"  : ["full-stack", "applied ML", "game physics"],
-    "always_up_for": "hackathons, collabs, weird side projects"
+    "location"     : "Toronto, ON 🍁",
+    "degree"       : "CS Specialist @ University of Toronto",
+    "building"     : "Ghostnote — audio stem separation",
+    "passions"     : ["full-stack", "applied ML", "game dev", "systems programming"],
+    "always_up_for": "hackathons, weird side projects, and anything that ships"
 }
 ```
 
-<br clear="right"/>
+I'm the kind of developer who opens a project thinking it'll be a weekend build and ends up rebuilding the whole stack. I work across the full spectrum — web apps, machine learning, game dev, robotics, and down to raw assembly. The common thread: **I finish things.**
 
 ---
 
-## ◈ Featured Work
+## 🛠 Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=postgresql&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
-### 🎵 Ghostnote
-**Python · Flask · Spleeter**
-
-Upload any song → isolate stems → download what you want.
-Vocal tracks, drum lines, guitar riffs — separated.
-
-> *The project that made me learn more about audio signal processing than I ever expected to.*
-
-[![Ghostnote](https://img.shields.io/badge/→_View_Repo-6e56cf?style=flat-square&labelColor=1a1a2e)](https://github.com/Abish-27/Ghostnote)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌌 Graviton
-**Godot · GDScript · Game Physics**
-
-A puzzle game built for **GODOT Game Jam #80**.
-You control gravity itself — navigate obstacles, interact with particles, bend space to your will.
-
-> *From zero GDScript to shipped game. In a jam.*
-
-[![Graviton](https://img.shields.io/badge/→_View_Repo-1d9e75?style=flat-square&labelColor=1a1a2e)](https://github.com/Abish-27/Graviton)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Stock Decision Trees
-**Python · scikit-learn · ML**
-
-Feeds historical stock data into decision trees that classify whether to **buy or hold** — interpretable, fast, and actually explainable.
-
-> *Because black-box models aren't the only option.*
-
-[![Stock-DT](https://img.shields.io/badge/→_View_Repo-d85a30?style=flat-square&labelColor=1a1a2e)](https://github.com/Abish-27/Stock-Decision-Trees)
-
-</td>
-<td width="50%" valign="top">
-
-### 🍽️ Meal Planner
-**Java · JSP · MySQL**
-
-Randomized weekly meal plans backed by a full relational database. Manage meals, ingredients, recipes — the complete CRUD experience.
-
-> *More complex than it sounds. Ask me about the schema.*
-
-[![Meal-Planner](https://img.shields.io/badge/→_View_Repo-ba7517?style=flat-square&labelColor=1a1a2e)](https://github.com/Abish-27/Meal-Planner)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🗣️ Shade Web
-**JavaScript · Web Scraping**
-
-Browser-based virtual assistant — calculations, definitions, music, conversation. Built before AI assistants were everywhere.
-
-[![Shade-web](https://img.shields.io/badge/→_View_Repo-378add?style=flat-square&labelColor=1a1a2e)](https://github.com/Abish-27/Shade-web)
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 LED Strips
-**Arduino · C++**
-
-Hardware experiments — patterns, effects, and reactive lighting on physical LED strips. Where code meets the real world.
-
-[![LED-strips](https://img.shields.io/badge/→_View_Repo-639922?style=flat-square&labelColor=1a1a2e)](https://github.com/Abish-27/LED-strips)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🗡️ Midnight Assassin
-**Godot · GDScript · Stealth AI**
-
-Play as an assassin — take out guards without stepping into the light. Full enemy detection, dagger combat, multiple levels, sound design. A complete stealth game, jam-built and shipped.
-
-> 🎮 **[Play it live on itch.io](https://abush27.itch.io/midnight-assassin)**
-
-[![Midnight-Assassin](https://img.shields.io/badge/→_View_Repo-d4537e?style=flat-square&labelColor=1a1a2e)](https://github.com/Abish-27/Midnight-Assassin)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Glacier
-**C++ · Arduino · Robotics · UltraHacks 2026**
-
-A maze-solving robot built for **UltraHacks 2026**. Uses multiple Arduinos, color sensors, and distance sensors to navigate mazes autonomously — plus a mechanical arm for picking up objects. Hardware, firmware, and problem-solving all in one build.
-
-[![Glacier](https://img.shields.io/badge/→_View_Repo-85b7eb?style=flat-square&labelColor=1a1a2e)](https://github.com/Abish-27/Glacier)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 Banger Generator
-**C · Systems Programming · MIDI · Concurrency**
-
-Pure C program that generates full multi-instrument backing tracks. Spawns **3 concurrent child processes** via `fork()` + pipes — drums, guitar, piano — each independently building a raw MIDI track and piping it back to the parent, which merges them into a SMF Type 1 `.mid` and renders to `.ogg` via TiMidity++. Zero external music libraries. Choose BPM, genre (Pop / Lo-fi / Rock / Loony Tunes), key, and bars.
-
-> *Systems programming meets generative music. This one surprised me.*
-
-[![Banger-Generator](https://img.shields.io/badge/→_View_Repo-9f8fe8?style=flat-square&labelColor=1a1a2e)](https://github.com/Abish-27/Banger-Generator)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌭 Lunch Brake
-**MIPS Assembly · CSC258 · Bitmap Display · MMIO**
-
-~4000 lines of MIPS Assembly. A full clone of the SEGA puzzle game Columns — falling gems, horizontal/vertical/diagonal matching, cascading gravity, combo multipliers, explosion animations, sound effects, next-piece preview, pause, and a **high score leaderboard saved to disk**. Rendered via a memory-mapped framebuffer. No libraries. Just raw assembly and willpower.
-
-> *"The final boss fight for CSC258." We meant it.*
-
-[![Lunch-Brake](https://img.shields.io/badge/→_View_Repo-ef9f27?style=flat-square&labelColor=1a1a2e)](https://github.com/Abish-27/Lunch-Brake)
-
-</td>
-</tr>
-</table>
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ---
 
-## ◈ Stack
+## 🚀 Featured Projects
 
-```
-LANGUAGES ──────────────────────────────────────────────────────
-  Python       ██████████████████░░  dominant
-  Java         █████████████░░░░░░░  solid
-  JavaScript   ████████████░░░░░░░░  daily
-  SQL          ████████░░░░░░░░░░░░  comfortable
-  C# / C++     ██████░░░░░░░░░░░░░░  game / hardware
-  GDScript     █████░░░░░░░░░░░░░░░  game jam ready
-  C / Assembly ████░░░░░░░░░░░░░░░░  low-level / systems
+### 🎵 Ghostnote &nbsp;·&nbsp; `Python` `Flask` `Spleeter`
+> Upload any song → isolate stems → download what you want. Vocal tracks, drum lines, guitar riffs — surgically separated. Built end-to-end: upload pipeline, audio processing backend, and playback UI.
 
-TOOLS & FRAMEWORKS ─────────────────────────────────────────────
-  Flask · React · Node.js · MySQL · Arduino
-  Godot · Unity · Git · scikit-learn · Spleeter
-```
+[![View Repo](https://img.shields.io/badge/View_Repo-6e56cf?style=flat-square&logo=github&logoColor=white)](https://github.com/Abish-27/Ghostnote)
 
 ---
 
-## ◈ What drives me
+### 🌭 Lunch Brake &nbsp;·&nbsp; `MIPS Assembly` `CSC258` `Bitmap Display`
+> ~4,000 lines of pure MIPS Assembly. A full Columns (SEGA) clone — falling gems, horizontal/vertical/diagonal matching, cascading gravity, combo multipliers, explosion animations, sound effects, next-piece preview, pause, and a **persistent high score leaderboard**. Rendered via memory-mapped framebuffer. No libraries. Just assembly and willpower. *The final boss fight for CSC258.*
 
-I don't just want to build demos — I want to build **things that work**.
-
-That means:
-- A web app that actually processes your upload and sends back output
-- A game that ships with a playable build
-- An ML model where you can read the decision tree and understand *why*
-
-I'm most alive in the intersection of **UX that feels right**, **backend that holds up**, and **problems worth solving**.
+[![View Repo](https://img.shields.io/badge/View_Repo-ef9f27?style=flat-square&logo=github&logoColor=white)](https://github.com/Abish-27/Lunch-Brake)
 
 ---
 
-## ◈ Let's connect
+### 🎵 Banger Generator &nbsp;·&nbsp; `C` `Systems Programming` `MIDI` `Concurrency`
+> Pure C. Spawns **3 concurrent child processes** via `fork()` + pipes — one each for drums, guitar, and piano. Each independently builds a raw MIDI track from scratch and pipes it back to the parent, which merges them into a SMF Type 1 `.mid` and renders to `.ogg` via TiMidity++. Zero external music libraries. Choose BPM, genre (Pop / Lo-fi / Rock / Loony Tunes), key, and bars.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-9f8fe8?style=flat-square&logo=github&logoColor=white)](https://github.com/Abish-27/Banger-Generator)
+
+---
+
+### 🤖 Glacier &nbsp;·&nbsp; `C++` `Arduino` `Robotics` `UltraHacks 2026`
+> Autonomous maze-solving robot built for **UltraHacks 2026**. Uses multiple Arduinos with color sensors and distance sensors to navigate mazes — detecting paths, reading color cues, and making real-time decisions. Includes a mechanical arm for picking up and placing objects. Hardware, firmware, and problem-solving in one physical build.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-378add?style=flat-square&logo=github&logoColor=white)](https://github.com/Abish-27/Glacier)
+
+---
+
+### 🗡️ Midnight Assassin &nbsp;·&nbsp; `Godot` `GDScript` `Stealth AI`
+> Stealth game built for a Godot Game Jam — play as an assassin armed with a dagger, take out guards without stepping into the light. Full enemy detection AI, dagger combat, multiple levels, and complete sound design. Jam-built and **actually shipped**.
+
+[![Play on itch.io](https://img.shields.io/badge/Play_on_itch.io-%23FF0B34.svg?style=flat-square&logo=Itch.io&logoColor=white)](https://abush27.itch.io/midnight-assassin)
+[![View Repo](https://img.shields.io/badge/View_Repo-d4537e?style=flat-square&logo=github&logoColor=white)](https://github.com/Abish-27/Midnight-Assassin)
+
+---
+
+### 🌌 Graviton &nbsp;·&nbsp; `Godot` `GDScript` `Game Physics`
+> Puzzle game built for **GODOT Game Jam #80** — you control gravity itself. Navigate obstacles, interact with particles, and bend the rules of physics to reach the goal. From zero GDScript to shipped game, in a jam.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-1d9e75?style=flat-square&logo=github&logoColor=white)](https://github.com/Abish-27/Graviton)
+
+---
+
+### 📈 Stock Decision Trees &nbsp;·&nbsp; `Python` `scikit-learn` `ML`
+> Decision-tree classifier trained on historical stock data — outputs buy/hold recommendations. Interpretable by design: you can read the tree and understand exactly *why* it made a call. Because black-box models aren't the only option.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-d85a30?style=flat-square&logo=github&logoColor=white)](https://github.com/Abish-27/Stock-Decision-Trees)
+
+---
+
+### 🍽️ Meal Planner &nbsp;·&nbsp; `Java` `JSP` `MySQL`
+> Randomized weekly meal plans backed by a full relational database. Manage meals, ingredients, and recipes — real CRUD, real schema design, real backend. More complex than it sounds. Ask me about the schema.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-ba7517?style=flat-square&logo=github&logoColor=white)](https://github.com/Abish-27/Meal-Planner)
+
+---
+
+### 🗣️ Shade Web &nbsp;·&nbsp; `JavaScript` `Web Scraping`
+> Browser-based virtual assistant — calculations, definitions, music, conversation, web scraping. Built before AI assistants were everywhere.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-85b7eb?style=flat-square&logo=github&logoColor=white)](https://github.com/Abish-27/Shade-web)
+
+---
+
+### 💡 LED Strips &nbsp;·&nbsp; `Arduino` `C++`
+> Patterns, effects, and reactive lighting on physical LED strips. Where code leaves the screen and enters the room.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-639922?style=flat-square&logo=github&logoColor=white)](https://github.com/Abish-27/LED-strips)
+
+---
+
+## 📊 Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abish_Kulkarni-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abish-kulkarni-83b666231/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-abishkulkarni@gmail.com-d85a30?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abishkulkarni@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Abish--27-6e56cf?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abish-27)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Abish-27&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abish-27&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 
 </div>
 
@@ -225,10 +136,8 @@ I'm most alive in the intersection of **UX that feels right**, **backend that ho
 
 <div align="center">
 
-```
-if something here catches your eye → star it, fork it, or just say hi.
-```
+*If something catches your eye — star it, fork it, or just say hi.*
 
-*Toronto · 2025 · still compiling*
+**[abishkulkarni@gmail.com](mailto:abishkulkarni@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/abish-kulkarni-83b666231/) &nbsp;·&nbsp; Toronto · still compiling**
 
 </div>
