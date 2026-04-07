@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e56cf&height=200&section=header&text=Abish%20Kulkarni&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20Specialist%20%40%20UofT%20%C2%B7%20Toronto%20%F0%9F%8D%81&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e56cf&height=200&section=header&text=Abish%20Kulkarni&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20Specialist%20%40%20UofT%20%C2%B7%20Toronto&descAlignY=58&descSize=18" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abish-kulkarni-83b666231/)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abishkulkarni@gmail.com)
@@ -12,7 +12,7 @@
 
 ```python
 abish = {
-    "location"     : "Toronto, ON 🍁",
+    "location"     : "Toronto, ON",
     "degree"       : "CS Specialist @ University of Toronto",
     "building"     : "Ghostnote — audio stem separation",
     "passions"     : ["full-stack", "applied ML", "game dev", "systems programming"],
@@ -185,18 +185,6 @@ Patterns, effects, and reactive lighting on physical LED strips. Where code leav
 </td>
 </tr>
 </table>
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abish-27&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&card_width=400" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abish-27&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&card_width=320" height="170"/>
-
-</div>
 
 ---
 
